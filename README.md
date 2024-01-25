@@ -1,4 +1,4 @@
-An Easy Python Program, which is the classic WindowsXP microsoft minesweeper game.<br><br>
+An Easy Python Program(No more than 200 lines of code now), which is the classic WindowsXP microsoft minesweeper game.<br><br>
 You can run it just by running the main.py in your computer.<br><br>
 Remember to install all the essential python packages in advance.<br><br>
 This program will be updated later...<br><br><br>
