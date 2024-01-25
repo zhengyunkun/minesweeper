@@ -5,7 +5,7 @@ This program will be updated later...<br><br><br>
 
 ![minesweeper](https://github.com/zhengyunkun/minesweeper/blob/main/images/screenshot-1.png)
 <br><br><br>
-This is what the code looks like on my coomputer: <br><br><br>
+This is what the code looks like on my computer: <br><br><br>
 ![minesweeper](https://github.com/zhengyunkun/minesweeper/blob/main/images/screenshot-2.png)
 
 <br><br><br>
